@@ -165,7 +165,7 @@ setup_args = dict(
         "sdist": Sdist,
     },
     install_requires=[
-        "cryptography==1.5.2",
+        "cryptography==3.2",
         "PyYAML==3.11",
         "binplist==0.1.4",
         "ipaddr==2.1.11",
